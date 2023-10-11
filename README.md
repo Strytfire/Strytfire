@@ -1,4 +1,4 @@
-# Hey, je m'appelle Cintrat Simon ! <a href="https://github.com/Strytfire/Strytfire/blob/main/README.md"></a><img width="30" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Technologist.png?raw=true">
+# Hey, je m'appelle **Simon CINTRAT** ! <a href="https://github.com/Strytfire/Strytfire/blob/main/README.md"></a><img width="30" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Technologist.png?raw=true">
 ### Développeur Full-stack & Designer.✒️
 
 <!-- <picture>
