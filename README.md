@@ -21,7 +21,7 @@
 
 Bonjour, je m'appelle [**Cintrat Simon**](). J'ai récemment obtenu un [**BTS SIO SLAM**](https://marc-bloch.mon-ent-occitanie.fr/) et je poursuis actuellement mes études à [**Epitech**](https://www.epitech.eu/fr/ecole-informatique-montpellier/) en Pré-MSC. Je suis à la recherche d'une alternance avec un rythme de 2 jours d'école et 3 jours en entreprise. En plus de ma passion pour l'informatique et le développement, je m'intéresse également au design. J'ai acquis une expérience de 3 ans dans le développement d'applications web et Windows. Mon engagement, ma rigueur et mon désir d'apprendre font de la programmation un projet sérieux pour mon avenir.
 
-# 📚 Compétences
+## 📚 Compétences
 
 <details>
 <summary> 🌐 Conception Web Front-End </summary>
