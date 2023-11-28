@@ -16,8 +16,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Strytfire_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simon-cintrat-163b36242/) 
 [![Twitch](https://img.shields.io/twitch/status/strytfire?style=social)](https://twitch.tv/Strytfire) 
+[![VisitCount](https://visitcount.itsvg.in/api?id=Strytfire&icon=2&color=12)](https://visitcount.itsvg.in)
 <!-- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCucTpvGstnmTdcDAd-MaO4g?style=social)](https://youtube.com/@Strytfire) -->
-[![](https://visitcount.itsvg.in/api?id=Strytfire&icon=2&color=12)](https://visitcount.itsvg.in)
+
 
 Bonjour, je m'appelle [**Cintrat Simon**](). J'ai récemment obtenu un [**BTS SIO SLAM**](https://marc-bloch.mon-ent-occitanie.fr/) et je poursuis actuellement mes études à [**Epitech**](https://www.epitech.eu/fr/ecole-informatique-montpellier/) en Pré-MSC. Je suis à la recherche d'une alternance avec un rythme de 2 jours d'école et 3 jours en entreprise. En plus de ma passion pour l'informatique et le développement, je m'intéresse également au design. J'ai acquis une expérience de 3 ans dans le développement d'applications web et Windows. Mon engagement, ma rigueur et mon désir d'apprendre font de la programmation un projet sérieux pour mon avenir.
 
