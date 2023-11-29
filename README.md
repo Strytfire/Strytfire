@@ -2,7 +2,7 @@
 ### Développeur Full-stack & Designer.✒️
 
 <picture>
-  <img alt="Main Banner" src="https://github.com/Strytfire/Strytfire/blob/main/BanGit.jpg">
+  <img alt="Main Banner" src="https://github.com/Strytfire/Strytfire/blob/main/BanGit.png">
 </picture>
 
 </br>
