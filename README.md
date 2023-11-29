@@ -2,8 +2,6 @@
 ### Développeur Full-stack & Designer.✒️
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
   <img alt="Main Banner" src="https://github.com/Strytfire/Strytfire/blob/main/BanGit.jpg">
 </picture>
 
