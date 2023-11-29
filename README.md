@@ -1,11 +1,11 @@
 # Hey, je m'appelle Simon CINTRAT ! <a href="https://github.com/Strytfire/Strytfire/blob/main/README.md"></a><img width="40" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Technologist.png?raw=true">
 ### Développeur Full-stack & Designer.✒️
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="">
   <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="Main Banner" src="">
-</picture> -->
+  <img alt="Main Banner" src="https://github.com/Strytfire/Strytfire/blob/main/BanGit.jpg">
+</picture>
 
 </br>
 </br>
